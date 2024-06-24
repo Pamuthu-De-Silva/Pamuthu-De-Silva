@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://github.com/Pamuthu-De-Silva/Pamuthu-De-Silva/blob/main/me.png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
+  <img height="150" src="https://github.com/Pamuthu-De-Silva/Pamuthu-De-Silva/blob/8fd3d94c38d11b2cb82612f57a5a11c9ad938525/mario.gif" />
 </div>
 
 <div align="center">
